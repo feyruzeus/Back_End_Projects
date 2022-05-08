@@ -1,0 +1,38 @@
+{
+    "61d3cb5ebd859": {
+        "username": "test",
+        "email": "test@examaple.com",
+        "password": "$2y$10$sa17kb85yPJmCXetntKmXuq1br5dD\/MK73x8M7djYHI2yhjxczM1W",
+        "id": "61d3cb5ebd859"
+    },
+    "61d3d05611e2b": {
+        "username": "admin",
+        "email": "admin@admin.com",
+        "password": "$2y$10$GWZiCrBDkAWRPCyHWvVJv..Q15fFakRQ6XjTVz2G3KKh.8RZVYAXC",
+        "id": "61d3d05611e2b"
+    },
+    "61d3d0e941231": {
+        "username": "feyruzeus",
+        "email": "feyruz@mail.ciom",
+        "password": "$2y$10$Ndel1kJVgviX04UYtViaKuAw7Pzrot3XtCRxw.0LzYQoEjrcwrdIW",
+        "id": "61d3d0e941231"
+    },
+    "61d3d27e4f4dc": {
+        "username": "Nihats",
+        "email": "niko.salamzade@gmail.com",
+        "password": "$2y$10$mTpHbWX4j3q0GINpVj3Nj.TH\/5.f1Vf.4.kEneSubgRN\/ERhDq\/bW",
+        "id": "61d3d27e4f4dc"
+    },
+    "61d4b1487c58a": {
+        "username": "rasul",
+        "email": "rasul123@hu.com",
+        "password": "$2y$10$MKlgGU2LzUTroqYiC878VOp6lWcQwAupgqMlNU\/GC4nJz0miwNiN.",
+        "id": "61d4b1487c58a"
+    },
+    "61df1a92990bc": {
+        "username": "test123",
+        "password": "$2y$10$Jgd8j7thXuKsOP5BCPGWB.k1oxhs9cg\/Fm.bSKgQRg6ZJlHzP.RNu",
+        "email": "ttes@sad.sd",
+        "id": "61df1a92990bc"
+    }
+}

@@ -1,0 +1,122 @@
+.header{
+    background: lightgrey;
+    display: flex;
+    padding: 20px 30px;
+    justify-content: space-between;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none !important;
+    color: inherit !important;
+}
+
+.team_link{
+    text-decoration: underline !important;
+}
+
+.team_link:hover{
+    color: blue !important;
+    text-decoration: underline !important;
+}
+
+.login-main, .register-main{
+    margin: auto;
+    display: flex;
+    width: 500px;
+    height: 400px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.won{
+    background: green;
+}
+.lost{
+    background: red;
+}
+
+.draw{
+    background: yellow;
+}
+.comment-inp{
+    width: 200px;
+    height: 60px;
+}
+.mytable{
+    max-width: 500px !important;
+    margin: 30px auto;
+}
+tr > td{
+    margin: auto;
+}
+.login:hover, .register:hover, .logout:hover{
+    background: aliceblue;
+    color: #0d6efd;
+    border: #0d6efd;
+}
+th, td{
+    padding: 25px;
+}
+th{
+    font-size: 24px;
+}
+td{
+    font-size: 20px;
+}
+h2{
+    margin-top: 30px !important;
+    text-align: center;
+}
+
+.comment{
+    margin: auto;
+    max-width: 400px;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    border: 1px solid #0d6efd;
+    border-radius: 15px;
+    padding: 15px;
+    /*flex-direction: column;*/
+    font-size: 17px;
+    height: 120px;
+}
+
+.comment-main{
+    margin-left: 25px;
+    width: 80px;
+    display: flex;
+    align-items: center;
+}
+.fa-user{
+    font-size: 40px !important;
+    margin-right: 10px;
+}
+.comment-input-main{
+    margin: auto;
+    max-width: 500px;
+    justify-content: center;
+    height: 80px;
+}
+.comment-input-main div{
+    width: 300px;
+    margin: auto;
+}
+.comment-inp{
+    padding: 10px;
+    border: 1px solid #0d6efd;
+    border-radius: 15px;
+
+}
+
+.date{
+    position: absolute;
+    width: 90px;
+    bottom: 1px;
+    right: 4px;
+}
+.comment + .comment{
+    margin-top: 30px;
+}
